@@ -19,10 +19,7 @@ In addition, I am working hard to reach my goals, seeking continuous self-improv
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
 
 ### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hosnasayed4899@gmail.com)](mailto:hosnasayed4899@gmail.com)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white]&link=https://www.linkedin.com/in/hosna-sayed/(https://www.linkedin.com/in/hosna-sayed/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hosnasayed4899@gmail.com)](mailto:hosnasayed4899@gmail.com
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosna-sayed/)
