@@ -1,6 +1,6 @@
 ### Hi there I am Hosna Embedded Software Engineer From Egypt 👋
 
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> M Welcome To My Github Profile </h1>
+<h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->  Welcome To My Github Profile </h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
@@ -22,11 +22,17 @@ In addition, I am working hard to reach my goals, seeking continuous self-improv
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hosnasayed4899@gmail.com)](mailto:hosnasayed4899@gmail.com)
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white]&link=https://www.linkedin.com/in/hosna-sayed/(https://www.linkedin.com/in/hosna-sayed/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=(https://www.linkedin.com/in/hosna-sayed/)](https://www.linkedin.com/in/hosna-sayed/)/?https://www.linkedin.com/in/hosna-sayed/ 
- 
 
-<a href="hosnasayd4899@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosna-sayed/)
+
+
+<!-- ### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+<br/>
+-->
 
 
 
