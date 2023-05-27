@@ -11,7 +11,9 @@
 
 <h3> About Me</h3> 
 <h4> Self-motivated, Work harder, and Passionate Embedded Software Engineer.
+  
 Seeking a challenging career with a progressive organization that provides an opportunity to capitalize on my technical skills and abilities in the field of Embedded Systems. 
+  
 In addition, I am working hard to reach my goals, seeking continuous self-improvement.
 
 
