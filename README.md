@@ -9,9 +9,9 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
 
-<h3> About Me</h3> 
-<h4> Self-motivated, Work harder, and Passionate Embedded Software Engineer.
-  
+## 🚀 About Me
+Self-motivated, Work harder, and Passionate Embedded Software Engineer.
+
 Seeking a challenging career with a progressive organization that provides an opportunity to capitalize on my technical skills and abilities in the field of Embedded Systems. 
   
 In addition, I am working hard to reach my goals, seeking continuous self-improvement.
@@ -25,14 +25,8 @@ In addition, I am working hard to reach my goals, seeking continuous self-improv
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosna-sayed/)
 
 
-<!-- ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-<br/>
--->
-
-
--Strong knowledge of C programming language & Embedded C 
+## 🛠 Skills
+Strong knowledge of C programming language & Embedded C 
   
 -Strong knowledge of microcontroller interfacing & peripherals
   
@@ -53,6 +47,4 @@ In addition, I am working hard to reach my goals, seeking continuous self-improv
 -Basic knowledge of AUTOSAR 
   
 -Basic knowledge of Linux OS
-<br/>
-<br/>
 
